@@ -1,2 +1,5 @@
-# theano_logistic_Regression
-Theano로 시작하는 로지스틱 회귀
+### Let's Logistic Regression with Theano
+
+- What is Logistic Regression
+
+- What is MNIST Image?
