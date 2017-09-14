@@ -1,4 +1,3 @@
-
 ### Getting Started
 
 이 튜토리얼은 [Theano - Getting Started](http://www.deeplearning.net/tutorial/gettingstarted.html)페이지를 가지고 작업하였습니다.
@@ -31,14 +30,9 @@ print("이미지 출처: https://www.researchgate.net/figure/264900175_fig6_Fig-
 Image(url= "Fig-6-Examples-of-the-MNIST-dataset.png")
 ```
 
+![](Fig-6-Examples-of-the-MNIST-dataset.png)
+
     이미지 출처: https://www.researchgate.net/figure/264900175_fig6_Fig-6-Examples-of-the-MNIST-dataset
-
-
-
-
-
-<img src="Fig-6-Examples-of-the-MNIST-dataset.png"/>
-
 
 
 이 데이터셋과 뉴럴 네트워크를 사용하여 학습을 시킬 것입니다. 학습 방법은 다음과 같습니다.
